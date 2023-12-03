@@ -4,16 +4,16 @@
 
 
 ✨Features
+
 ● Clock face
-
 Clock showing the current time (seconds,mins,hrs changes as time changes).
-● Set Alarm
 
+● Set Alarm
 Provides input boxes to set an alarm (hr,min,sec, am/pm).
 Once the sets the time and when clicked “Set Alarm” button, that alarm get added to alarm list below.
 When the alarm goes of we get JS alert on browser.
 Displays a list of all the alarms set by user.
-● Delete alarm
 
+● Delete alarm
 For each alarm there is delete button.
 When the user click delete button it deletes that specific alarm.
